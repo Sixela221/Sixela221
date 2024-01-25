@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sixela221
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning c++ and python
+- 📫 How to reach me: alex76.corruble@outlook.fr
